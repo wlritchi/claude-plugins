@@ -1,0 +1,15 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "wlritchi"
+  },
+  "plugins": [
+    {
+      "name": "opinionated-python-setup",
+      "source": "./opinionated-python-setup",
+      "description": "Opinionated project setup commands (linters, Dockerfile templates, etc.)",
+      "version": "0.1.0",
+      "author": { "name": "wlritchi" }
+    }
+  ]
+}
