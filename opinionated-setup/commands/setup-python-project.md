@@ -2,7 +2,7 @@
 description: Create a new Python project skeleton with pyproject.toml, .pre-commit-config.yaml and step-by-step setup instructions
 ---
 
-# Setup Project
+# Setup Python Project
 
 Generate a complete, copy-pasteable project bootstrap for a modern Python project. This command outputs:
 

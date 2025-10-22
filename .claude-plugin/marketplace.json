@@ -5,16 +5,9 @@
   },
   "plugins": [
     {
-      "name": "opinionated-python-setup",
-      "source": "./opinionated-python-setup",
-      "description": "Opinionated project setup commands (linters, Dockerfile templates, etc.)",
-      "version": "0.1.0",
-      "author": { "name": "wlritchi" }
-    },
-    {
-      "name": "python-project-setup",
-      "source": "./python-project-setup",
-      "description": "Bootstrapped pyproject.toml, pre-commit config, and setup instructions",
+      "name": "opinionated-setup",
+      "source": "./opinionated-setup",
+      "description": "Opinionated project and Dockerfile setup: pyproject, pre-commit, Dockerfile templates and helper instructions",
       "version": "0.1.0",
       "author": { "name": "wlritchi" }
     }

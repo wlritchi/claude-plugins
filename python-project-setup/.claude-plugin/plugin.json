@@ -1,6 +1,0 @@
-{
-  "name": "python-project-setup",
-  "description": "Generate pyproject.toml, .pre-commit-config.yaml and setup instructions for new Python projects",
-  "version": "0.1.0",
-  "author": { "name": "wlritchi" }
-}
